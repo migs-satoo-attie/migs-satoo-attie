@@ -41,10 +41,6 @@
 
 ![migs-satoo-attie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migs-satoo-attie&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-***
-### 💌 *Donate*
-<img height="180em" src="https://i.pinimg.com/originals/cc/41/53/cc415372824d74a13c7b8f998508c9d4.gif" />
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=267GM6N7WE588" target='_blank'><img height="40em" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> </a>
 
 
